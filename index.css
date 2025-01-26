@@ -28,7 +28,7 @@ input{
     background-color: rgb(192, 165, 165);
 }
 button:hover{
-    background-color: aqua;
+    background-color: rgb(92, 115, 115);
 }
 button:active{
     background-color: rgb(74, 94, 135);
